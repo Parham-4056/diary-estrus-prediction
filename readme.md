@@ -1,4 +1,4 @@
-# Estrus Prediction in Iranian Holstein Dairy Herds Using Machine Learning Ensembles
+# Hybrid Ensemble Learning for Precision Reproductive and Decision Support in Dairy Cattle
 
 ## Overview
 
@@ -101,6 +101,6 @@ This repository contains the code and pipeline used to analyze **118,996 insemin
 
 This repository accompanies ongoing research work titled:  
 **"Hybrid Ensemble Methods for Reproduction Management in Dairy Cattle: Toward Precision and Breeding Decision Support"**  
-*(in preparation)* by Parham Khalifehzadeh, Mostafa Ghaderi-Zefrehei, Somayeh Sharifi, Mahsa Rahmani, Mustafa Muhaghegh-Dolatabady
+*(in preparation)* by Parham Khalifehzadeh, Mostafa Ghaderi-Zefrehei, Farjad Rafeie, Mohammadreza Hashemi, Somayeh Sharifi, Mahsa Rahmani, Saeid Ansari Mahyari, Mustafa Muhaghegh-Dolatabady
 
 ---
